@@ -42,6 +42,20 @@ Screenshots are included in this repository to demonstrate the practical steps a
 * Password-cracking process
 * Successfully recovered password
 * Successfully opened protected PDF
+* ![whois output](whois.png)
+
+![whatweb output](whatweb.png)
+
+![nslookup output](nslookup.png)
+
+![curl output](curl.png)
+
+![wafw00f output](wafw00f.png)
+
+![dnsrecon output](nmap1.png)
+
+![Zenmap scan and topology](nmaptop.png)
+
 
 > **Note:** Passwords and other sensitive information should be redacted from public screenshots where necessary.
 
