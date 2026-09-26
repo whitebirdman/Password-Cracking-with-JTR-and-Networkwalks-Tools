@@ -152,31 +152,6 @@ The objective of this exercise was educational: to understand password security 
 
 ---
 
-# Repository Evidence
-
-```text
-Week3-Password-Cracking/
-│
-├── README.md
-│
-├── screenshots/
-│   ├── jtr/
-│   │   ├── pdf-hash.png
-│   │   ├── john-setup.png
-│   │   └── john-password-cracked.png
-│   │
-│   └── networkwalks/
-│       ├── hash-calculator.png
-│       └── password-cracker.png
-│
-└── evidence/
-    └── additional-pdf-jtr-crack.png
-```
-
-> Screenshots containing passwords, private information, personal files, or other sensitive information should be redacted before being published publicly.
-
----
-
 ## Ethical Use
 
 All activities documented in this repository were performed as part of a controlled cybersecurity learning environment.
@@ -193,3 +168,13 @@ Networkwalks – Cybersecurity & Ethical Hacking Project Tasks
 
 * Project Module 1 – Password Cracking with JTR
 * Project Module 2 – Password Cracking with Networkwalks Tools
+
+
+👤 Author
+Ayisire I. Oghenechovwe
+
+Cybersecurity Intern
+
+LinkedIn: https://www.linkedin.com/in/ayisire/
+
+The End
