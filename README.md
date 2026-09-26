@@ -34,28 +34,13 @@ The assigned workflow involved obtaining the PDF hash, saving it in the appropri
 
 Screenshots are included in this repository to demonstrate the practical steps and successful password recovery.
 
-**Screenshot examples:**
+![p1](p1.png)
 
-* PDF/hash extraction
-* Hash saved to text file
-* John the Ripper/Johnny configuration
-* Password-cracking process
-* Successfully recovered password
-* Successfully opened protected PDF
-* ![whois output](whois.png)
+![p2](p2.png)
 
-![whatweb output](whatweb.png)
+![p3](p3.png)
 
-![nslookup output](nslookup.png)
-
-![curl output](curl.png)
-
-![wafw00f output](wafw00f.png)
-
-![dnsrecon output](nmap1.png)
-
-![Zenmap scan and topology](nmaptop.png)
-
+![p4](p4.png)
 
 > **Note:** Passwords and other sensitive information should be redacted from public screenshots where necessary.
 
@@ -78,10 +63,6 @@ The task workflow involved extracting the PDF hash with the Hash Calculator and 
 7. Verified the recovered password by opening the protected PDF.
 
 The task instructions specifically require copying the complete hash and submitting it to the Password Cracker before waiting for the recovered password.
-
-### Evidence
-
-Screenshots are included as evidence of the completed practical exercise.
 
 ---
 
@@ -109,7 +90,9 @@ I then used **John the Ripper** to perform password recovery against the protect
 A screenshot showing the successful password recovery is included in the repository as practical evidence.
 
 **Evidence:**
-`images/john-password-cracked.png`
+![wp2](wp2.png)
+
+![wp3](wp3.png)
 
 ---
 
@@ -122,6 +105,10 @@ The tool was unable to recover the password because the password was outside the
 This demonstrated an important practical limitation of a restricted password-cracking tool: successful recovery depends not only on the password itself but also on the words/candidates available to the cracking process.
 
 For a password outside the available checking range, the tool would need to be supplied with an appropriate **wordlist** containing suitable password candidates before the test could effectively continue.
+
+**Evidence:**
+
+![wp1](wp1.png)
 
 ### Security Learning
 
